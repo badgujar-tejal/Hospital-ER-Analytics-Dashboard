@@ -19,3 +19,7 @@ This interactive Excel dashboard analyzes Emergency Room performance metrics, pa
 * **Data Visualization:** Developed custom donut charts, pie charts, stylized KPI blocks, and conditional horizontal data bars inside tables.
 * **Interactivity:** Implemented multi-tier **Slicers** for effortless filtering by Year (2023, 2024, 2025) and Month (January through December).
 * **Data Presentation:** Combined area charts (underneath KPI cards) to display micro-trends over time alongside traditional distribution bar charts.
+
+
+## Dashboard Preview
+![Hospital Emergency Room Dashboard](Hospital%20Emergency%20Room%20Dashboard%20Preview.png)
